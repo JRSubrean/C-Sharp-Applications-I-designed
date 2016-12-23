@@ -1,0 +1,12 @@
+c:\users\jrsubrean\documents\visual studio 2015\Projects\Pilot\Pilot\bin\Debug\Pilot.exe.config
+c:\users\jrsubrean\documents\visual studio 2015\Projects\Pilot\Pilot\bin\Debug\Pilot.exe
+c:\users\jrsubrean\documents\visual studio 2015\Projects\Pilot\Pilot\bin\Debug\Pilot.pdb
+c:\users\jrsubrean\documents\visual studio 2015\Projects\Pilot\Pilot\bin\Debug\Engine.dll
+c:\users\jrsubrean\documents\visual studio 2015\Projects\Pilot\Pilot\bin\Debug\Engine.pdb
+c:\users\jrsubrean\documents\visual studio 2015\Projects\Pilot\Pilot\obj\Debug\Pilot.csprojResolveAssemblyReference.cache
+c:\users\jrsubrean\documents\visual studio 2015\Projects\Pilot\Pilot\obj\Debug\Pilot.Properties.Resources.resources
+c:\users\jrsubrean\documents\visual studio 2015\Projects\Pilot\Pilot\obj\Debug\Pilot.csproj.GenerateResource.Cache
+c:\users\jrsubrean\documents\visual studio 2015\Projects\Pilot\Pilot\obj\Debug\Pilot.exe
+c:\users\jrsubrean\documents\visual studio 2015\Projects\Pilot\Pilot\obj\Debug\Pilot.pdb
+c:\users\jrsubrean\documents\visual studio 2015\Projects\Pilot\Pilot\obj\Debug\Pilot.Pilot.resources
+C:\Users\JRSubrean\documents\visual studio 2015\Projects\Pilot\Pilot\obj\Debug\Pilot.PilotTradingScreen.resources
