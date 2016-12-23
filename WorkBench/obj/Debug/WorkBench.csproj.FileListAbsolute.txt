@@ -1,0 +1,5 @@
+C:\Users\JRSubrean\documents\visual studio 2015\Projects\Pilot\WorkBench\bin\Debug\WorkBench.dll
+C:\Users\JRSubrean\documents\visual studio 2015\Projects\Pilot\WorkBench\bin\Debug\WorkBench.pdb
+C:\Users\JRSubrean\documents\visual studio 2015\Projects\Pilot\WorkBench\obj\Debug\WorkBench.csprojResolveAssemblyReference.cache
+C:\Users\JRSubrean\documents\visual studio 2015\Projects\Pilot\WorkBench\obj\Debug\WorkBench.dll
+C:\Users\JRSubrean\documents\visual studio 2015\Projects\Pilot\WorkBench\obj\Debug\WorkBench.pdb
