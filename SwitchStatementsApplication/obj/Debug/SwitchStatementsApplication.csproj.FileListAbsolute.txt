@@ -1,0 +1,12 @@
+c:\users\j.r. subrean\documents\visual studio 2015\Projects\SwitchStatementsApplication\SwitchStatementsApplication\bin\Debug\SwitchStatementsApplication.exe.config
+c:\users\j.r. subrean\documents\visual studio 2015\Projects\SwitchStatementsApplication\SwitchStatementsApplication\bin\Debug\SwitchStatementsApplication.exe
+c:\users\j.r. subrean\documents\visual studio 2015\Projects\SwitchStatementsApplication\SwitchStatementsApplication\bin\Debug\SwitchStatementsApplication.pdb
+c:\users\j.r. subrean\documents\visual studio 2015\Projects\SwitchStatementsApplication\SwitchStatementsApplication\obj\Debug\SwitchStatementsApplication.csprojResolveAssemblyReference.cache
+c:\users\j.r. subrean\documents\visual studio 2015\Projects\SwitchStatementsApplication\SwitchStatementsApplication\obj\Debug\SwitchStatementsApplication.exe
+c:\users\j.r. subrean\documents\visual studio 2015\Projects\SwitchStatementsApplication\SwitchStatementsApplication\obj\Debug\SwitchStatementsApplication.pdb
+C:\Users\JRSubrean\Documents\Visual Studio 2015\Projects\SwitchStatementsApplication\SwitchStatementsApplication\bin\Debug\SwitchStatementsApplication.exe.config
+C:\Users\JRSubrean\Documents\Visual Studio 2015\Projects\SwitchStatementsApplication\SwitchStatementsApplication\obj\Debug\SwitchStatementsApplication.exe
+C:\Users\JRSubrean\Documents\Visual Studio 2015\Projects\SwitchStatementsApplication\SwitchStatementsApplication\obj\Debug\SwitchStatementsApplication.pdb
+C:\Users\JRSubrean\Documents\Visual Studio 2015\Projects\SwitchStatementsApplication\SwitchStatementsApplication\bin\Debug\SwitchStatementsApplication.exe
+C:\Users\JRSubrean\Documents\Visual Studio 2015\Projects\SwitchStatementsApplication\SwitchStatementsApplication\bin\Debug\SwitchStatementsApplication.pdb
+C:\Users\JRSubrean\Documents\Visual Studio 2015\Projects\SwitchStatementsApplication\SwitchStatementsApplication\obj\Debug\SwitchStatementsApplication.csprojResolveAssemblyReference.cache
