@@ -1,0 +1,10 @@
+c:\users\jrsubrean\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\bin\Debug\LoginWindow.exe.config
+c:\users\jrsubrean\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\bin\Debug\LoginWindow.exe
+c:\users\jrsubrean\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\bin\Debug\LoginWindow.pdb
+c:\users\jrsubrean\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.csprojResolveAssemblyReference.cache
+c:\users\jrsubrean\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.Form1.resources
+c:\users\jrsubrean\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.Main.resources
+c:\users\jrsubrean\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.Properties.Resources.resources
+c:\users\jrsubrean\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.csproj.GenerateResource.Cache
+c:\users\jrsubrean\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.exe
+c:\users\jrsubrean\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.pdb
